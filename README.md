@@ -41,4 +41,3 @@ pickle.
 **Data set link-**
  (link :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
  
-**Website link-**
