@@ -1,12 +1,12 @@
 # Movie_Recommender_system-
- This part is focused around building various kinds of recommendation engines; namely the Simple Generic Recommender, the Content Based Filter and the User Based Collaborative Filter. The performance of the systems are evaluated in both a qualitative and quantitative manner.
-It is content based movie recommendation system, in this i have used two content based engines; one that took movie overview and taglines as input and the other which took metadata such as cast, crew, genre and keywords to come up with predictions using cosine similarity.
-Cosine similarity-The cosine similarity measures the similarity between vector lists by calculating the cosine angle between the two vector lists. If you consider the cosine function, its value at 0 degrees is 1 and -1 at 180 degrees.
-*Approach*
+ This part is focused around building various kinds of recommendation engines,known as the Content Based Filter and the User Based Collaborative Filter, user based Filter. The performance of the systems are evaluated in both a qualitative and quantitative manner.
+I have made a content based movie recommendation system, in this i have used two content based engines.
+The first one takes movie overview and taglines as input and the other one takes metadata such as cast, crew, genre and keywords to come up with predictions using cosine similarity.
+The cosine similarity measures the similarity between vector lists by calculating the cosine angle between the two vector lists. If you consider the cosine function, its value at 0° is 1 and -1 at 180°.
+**Approach**
 The problem was divided into several steps:
-
-Data Collection: Data was collected from the MovieLens website and through a script that queried for data from various TMDB Endpoints.
-Preprocessing : Make data ready according our purpose.
+Data Collection: I have taken the dataset available at kaggle.
+Preprocessing : For .
 Model building: Using machine learning.
 After this we will going convert this into website, after this we will going to deploy the website.
 Recommendation Systems: Four different recommendation systems were built using various ideas and algorithms such as IMDB's Weighted Rating, Content Based Filtering and Collaborative Filtering.
