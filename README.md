@@ -3,6 +3,7 @@
 I have made a content based movie recommendation system, in this i have used two content based engines.
 The first one takes movie overview and taglines as input and the other one takes metadata such as cast, crew, genre and keywords to come up with predictions using cosine similarity.
 The cosine similarity measures the similarity between vector lists by calculating the cosine angle between the two vector lists. If you consider the cosine function, its value at 0° is 1 and -1 at 180°.
+
 **Approach**
 The problem was divided into several steps:
 Data Collection: I have taken the dataset available at kaggle.
