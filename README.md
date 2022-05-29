@@ -13,7 +13,7 @@ Preprocessing : For utilization of my purpose, i have preprocessed the dataset f
 
  I have build model using machine learning libaries.
  
-By using the prepared model i have created a website and deployed it.
+By using the prepared model i have created a website.
 
 **Recommendation Systems: Four different recommendation systems were built using various ideas and algorithms such as IMDB's Weighted Rating, Content Based Filtering and Collaborative Filtering**.
 
