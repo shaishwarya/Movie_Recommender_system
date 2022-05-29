@@ -19,7 +19,8 @@ Hybrid Engine: I brought together ideas from content and collaborative filtering
 
 Software Require
 Jupyter notebook
-Python
+Pycharm
+Heroku
 
 Python libraries
 Numpy
