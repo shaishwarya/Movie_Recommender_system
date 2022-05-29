@@ -2,7 +2,7 @@
  This part is focused around building various kinds of recommendation engines; namely the Simple Generic Recommender, the Content Based Filter and the User Based Collaborative Filter. The performance of the systems are evaluated in both a qualitative and quantitative manner.
 It is content based movie recommendation system, in this i have used two content based engines; one that took movie overview and taglines as input and the other which took metadata such as cast, crew, genre and keywords to come up with predictions using cosine similarity.
 Cosine similarity-The cosine similarity measures the similarity between vector lists by calculating the cosine angle between the two vector lists. If you consider the cosine function, its value at 0 degrees is 1 and -1 at 180 degrees.
-Approach
+*Approach*
 The problem was divided into several steps:
 
 Data Collection: Data was collected from the MovieLens website and through a script that queried for data from various TMDB Endpoints.
