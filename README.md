@@ -23,12 +23,12 @@ Pycharm
 Heroku
 
 Python libraries
-Numpy
-Pandas
-ast
-nltk
-sklearn
-pickle
+Numpy,
+Pandas,
+ast,
+nltk,
+sklearn,
+pickle.
 
 Data set link-
  (link :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
